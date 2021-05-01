@@ -1,2 +1,2 @@
 # tasOyunu
- Yazılım Yapımı Dersi Ödevi
+ Yazılım Sınama Dersi Ödevi
